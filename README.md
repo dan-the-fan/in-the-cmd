@@ -2,7 +2,7 @@
 ray koefoed's in the virtual end music video played in batch.
 ![in the cmd showcase](https://user-images.githubusercontent.com/72838747/205126311-1f394437-ec1e-497c-9c1a-240cee63fca8.png)
 
-yep. The whole video.
+yep. the whole video.
 
 ## why is there no audio?
 there was supposed to be audio, tho because of copyright i decided to remove it on the github repo.
@@ -14,3 +14,6 @@ there was supposed to be audio, tho because of copyright i decided to remove it 
 
 ## the video isn't synced!
 open play.bat in a text editor and you'll see why.
+
+## dude, why are there over 200 images in the program's folder?
+those are the images. yes, i am THAT kind.
