@@ -17,3 +17,5 @@ open play.bat in a text editor and you'll see why.
 
 ## dude, why are there over 200 images in the program's folder?
 those are the images. yes, i am THAT kind.
+
+also PLEASE FORK MY REPO I NEED SOMEONE TO FIX MY GOD-AWFUL CODE.
