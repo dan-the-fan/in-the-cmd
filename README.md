@@ -23,7 +23,7 @@ there was supposed to be audio, tho because of copyright i decided to remove it 
 open play.bat in a text editor and you'll see why.
 
 ### dude, why are there over 200 images in the program's folder?
-those are the images. yes, i am THAT humble.
+those are the frames for the video. yes, i am THAT humble.
 
 
 
